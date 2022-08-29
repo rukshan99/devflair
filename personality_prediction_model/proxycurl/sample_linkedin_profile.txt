@@ -1,0 +1,518 @@
+{'public_identifier': 'rukshanjayasekara',
+    'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C5103AQFRCygAgH6wmg/profile-displayphoto-shrink_200_200/0/1550206509986?e=1655337600&v=beta&t=8RgSWnk1tC8s9BNZFYU6N3XAHCTHuYIprn2Q06d-CkY',
+    'background_cover_image_url': 'https: //media-exp1.licdn.com/dms/image/C5616AQGi6kMFp4AbSQ/profile-displaybackgroundimage-shrink_200_800/0/1613076175806?e=1655337600&v=beta&t=8Wy2aj7vmAbAS6I2nVQ6tcrXzFiWKBc5cOjHv1f7xAw',
+    'first_name': 'Rukshan',
+    'last_name': 'Jayasekara',
+    'full_name': 'Rukshan Jayasekara',
+    'occupation': 'Software Engineer Intern at 99x',
+    'headline': 'MLSA | Software Engineering Undergraduate at SLIIT',
+    'summary': 'Final year undergraduate at Sri Lanka Institute of Information Technology, future Software Engineer. My passion for technology made me fall in love with software development and is the reason to follow my BSc (Hons) Information Technology degree program specializing in Software Engineering.',
+    'country': 'LK',
+    'country_full_name': 'Sri Lanka',
+    'city': None,
+    'state': None,
+    'experiences': [
+        {'starts_at': {'day': 1, 'month': 4, 'year': 2021
+            },
+      'ends_at': {'day': 31, 'month': 10, 'year': 2021
+            },
+      'company': '99x',
+      'company_linkedin_profile_url': 'https: //lk.linkedin.com/company/99xio',
+      'title': 'Software Engineer Intern',
+      'description': None,
+      'location': 'Colombo, Western, Sri Lanka',
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C560BAQEVg8fDYKXBCw/company-logo_100_100/0/1601228756308?e=2147483647&v=beta&t=ynRTzauQE6YUqu8gVSA-RaneMnSEAacyEpxTtKRzth4'}],
+    'education': [
+                {'starts_at': {'day': 1, 'month': 1, 'year': 2019
+                    },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2023
+                    },
+      'field_of_study': 'Computer Software Engineering',
+      'degree_name': 'Information Technology specializing in Software Engineering',
+      'school': 'SLIIT',
+      'school_linkedin_profile_url': 'https: //lk.linkedin.com/school/sliit/',
+      'description': None,
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C560BAQEIerI4wDXA3w/company-logo_100_100/0/1643683606424?e=2147483647&v=beta&t=VHAg3CUkrGAs33craPkT2vVYDXFwzqF6Wr56MuFoPa4'},
+                    {'starts_at': {'day': 1, 'month': 1, 'year': 2018
+                        },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2019
+                        },
+      'field_of_study': None,
+      'degree_name': 'Business English ',
+      'school': 'University of Colombo',
+      'school_linkedin_profile_url': 'https: //lk.linkedin.com/school/university-of-colombo/',
+      'description': None,
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C510BAQHqtA7-ZAyi0Q/company-logo_100_100/0/1579845499018?e=2147483647&v=beta&t=c7OvGqFBoV5msI8Pa77RgXFWpdgw2Om4aDXTuJu37nQ'},
+                        {'starts_at': {'day': 1, 'month': 1, 'year': 2010
+                            },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2018
+                            },
+      'field_of_study': None,
+      'degree_name': None,
+      'school': 'D. S. Senanayake College',
+      'school_linkedin_profile_url': 'https: //lk.linkedin.com/school/d-s-senanayake/',
+      'description': None,
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C510BAQEgwLh49hAjxg/company-logo_100_100/0/1521318290948?e=2147483647&v=beta&t=N0w2Vju3NfcS9tyADbT5SqKb25-5J9ZGH8ihDU4B2yk'}],
+    'languages': [],
+    'accomplishment_organisations': [
+                                {'starts_at': {'day': 1,
+       'month': 3,
+       'year': 2021
+                                    },
+      'ends_at': {'day': 30, 'month': 4, 'year': 2021
+                                    },
+      'org_name': 'International MUN',
+      'title': 'Campus Ambassador',
+      'description': None
+                                },
+                                {'starts_at': None,
+      'ends_at': None,
+      'org_name': 'FOSSASIA',
+      'title': 'Member and Contributor',
+      'description': 'Participated in FOSSASIA Summit 2021.'
+                                },
+                                {'starts_at': None,
+      'ends_at': None,
+      'org_name': 'IEEE',
+      'title': 'Student Volunteer',
+      'description': 'Participated in IEEEXtreme 15.0 (competitive programming)'
+                                }
+                            ],
+    'accomplishment_publications': [
+                                {'name': 'How to deploy your existing Express server to AWS Lambda?',
+      'publisher': 'July 22,
+                                    2021',
+      'published_on': {'day': 22, 'month': 7, 'year': 2021
+                                    },
+      'description': 'How to easily deploy an already implemented Express.js server to AWS Lambda with Serverless.',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/07/23/how-to-deploy-your-existing-express-server-to-aws-lambda/'},
+                                    {'name': 'A Beginner’s Guide to GitHub Contributing',
+      'publisher': 'May 1,
+                                        2021',
+      'published_on': {'day': 1, 'month': 5, 'year': 2021
+                                        },
+      'description': 'In my opinion, if you are at the beginning of your career, contributing to open source is one of the best ways to learn new technologies, programming best practices, and modern industry trends. So I decided to write this article which is a step-by-step guide for a beginner to contribute to the FOSS community.',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/05/02/a-beginners-guide-to-github-contributing/'},
+                                        {'name': 'Microservice Architecture: A review on how microservices enhance DevOps, advantages of  microservices, challenges of microservices and how  to overcome them.',
+      'publisher': 'March 18,
+                                            2021',
+      'published_on': {'day': 18, 'month': 3, 'year': 2021
+                                            },
+      'description': 'Abstract-\nUsing microservices to develop applications has become a common trend among modern developers. Further, the rapid increase of the client demands to have the best possible solution for their requirements in the shortest possible time has lead developers to follow DevOps principles. When both microservices architecture and DevOps principles considered, what one can achieve by using both of the mentioned methods in the same development process is a popular modern-day question. This review paper which was developed following articles published between 2014 and 2020, discusses how the microservice architecture enhances DevOps, the advantages of using microservice architecture over monolithic architectural approach, common challenges to face when using the microservices and how to overcome those challenges.',
+      'url': 'https: //1drv.ms/b/s!AkAbXiOMyMLxkV51PQLOuNTLXc2T?e=aBaTEk'},
+                                            {'name': 'Spring Boot Continuous Integration with Jenkins: A Step by Step Guide',
+      'publisher': 'March 17,
+                                                2021',
+      'published_on': {'day': 17, 'month': 3, 'year': 2021
+                                                },
+      'description': 'An introduction to continuous integration with a step by step guide on how to use continuous integration for a Spring Boot + Maven application with Jenkins.',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/03/17/spring-boot-continuous-integration-with-jenkins-a-step-by-step-guide/'},
+                                                {'name': "CAP Theorem and How It's Applied in MongoDB",
+      'publisher': 'March 6,
+                                                    2021',
+      'published_on': {'day': 6, 'month': 3, 'year': 2021
+                                                    },
+      'description': 'What is CAP Theorem in distributed systems? what are CA, CP and AP databases? How CAP Theorem is applied in MongoDB?',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/03/06/cap-theorem-and-how-its-applied-in-mongodb/'},
+                                                    {'name': 'Getting started with Docker',
+      'publisher': 'March 1,
+                                                        2021',
+      'published_on': {'day': 1, 'month': 3, 'year': 2021
+                                                        },
+      'description': 'How to create a Docker Image, How to run it inside a Docker Container, and how to push it to Docker Hub.',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/03/01/getting-started-with-docker/'},
+                                                        {'name': 'Microservice Architecture, Advantages and Disadvantages.',
+      'publisher': 'February 25,
+                                                            2021',
+      'published_on': {'day': 25, 'month': 2, 'year': 2021
+                                                            },
+      'description': 'What is Microservice Architecture? What are the advantages and disadvantages? When to use?',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/02/25/microservice-architecture-advantages-and-disadvantages/'},
+                                                            {'name': 'Stateful and Stateless Components in React.js',
+      'publisher': 'February 20,
+                                                                2021',
+      'published_on': {'day': 20, 'month': 2, 'year': 2021
+                                                                },
+      'description': 'Stateful components and stateless components in React. What are the differences?',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/02/20/stateful-and-stateless-components-in-react-js/'},
+                                                                {'name': 'What Is The MERN Stack?',
+      'publisher': 'February 19,
+                                                                    2021',
+      'published_on': {'day': 19, 'month': 2, 'year': 2021
+                                                                    },
+      'description': 'An introduction to MERN stack. The components of MERN stack, how they interact with each other, and advantages of it.',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/02/19/what-is-the-mern-stack/'},
+                                                                    {'name': 'Create A Spring Boot RESTful CRUD API With MySQL, JPA And Hibernate.',
+      'publisher': 'February 16,
+                                                                        2021',
+      'published_on': {'day': 16, 'month': 2, 'year': 2021
+                                                                        },
+      'description': 'How to create a Spring Boot Restful CRUD API using MySQL, JPA, and Hibernate and how to check the APIs’ functionalities using Postman.',
+      'url': 'https: //rukshanjayasekara.wordpress.com/2021/02/16/spring-boot-restful-crud-api-with-mysql-jpa-and-hibernate/'}],
+    'accomplishment_honors_awards': [
+                                                                            {'title': "SLIIT Dean's List &  Scholarship",
+      'issuer': 'SLIIT',
+      'issued_on': {'day': 1, 'month': 7, 'year': 2021
+                                                                                },
+      'description': 'I was awarded a scholarship by SLIIT for my academic performance in the first semester of my second year, where I completed the semester with a GPA of 3.94.'
+                                                                            },
+                                                                            {'title': 'Microsoft Learn Student Ambassador',
+      'issuer': 'Microsoft',
+      'issued_on': {'day': 1, 'month': 4, 'year': 2021
+                                                                                },
+      'description': 'Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.'
+                                                                            },
+                                                                            {'title': 'Postman Student Expert',
+      'issuer': 'Postman',
+      'issued_on': {'day': 1, 'month': 3, 'year': 2021
+                                                                                },
+      'description': 'Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.'
+                                                                            }
+                                                                        ],
+    'accomplishment_patents': [],
+    'accomplishment_courses': [],
+    'accomplishment_projects': [
+                                                                            {'starts_at': {'day': 1,
+       'month': 4,
+       'year': 2021
+                                                                                },
+      'ends_at': {'day': 31, 'month': 10, 'year': 2021
+                                                                                },
+      'title': 'Maturify',
+      'description': 'Maturify is a corporate e-learning platform that was designed to give knowledge and achieve easy knowledge transfers for the employees. The system was designed to systematically develop skills through community models using microlearning and self-phased learning methods. The system compromises of gamification features to make the client base actively engaged with the system.\n\nAs for the technology stack, Maturify uses Angular for frontend, Node.js with Serverless architecture for the backend microservices, and AWS. Maturify adheres to follow Scrum practices which is an agile development methodology used in the development of Software based on an iterative and incremental process.',
+      'url': 'https: //www.maturify.com/'},
+                                                                                {'starts_at': {'day': 1, 'month': 3, 'year': 2021
+                                                                                    },
+      'ends_at': {'day': 30, 'month': 6, 'year': 2021
+                                                                                    },
+      'title': 'Conference Management Tool for ICAF',
+      'description': 'Conference management tool for the International Conference on Application Frameworks (ICAF)\nMERN was used as the main tech stack. The system was deployed with Heroku and the documentation was done with Docsify and is hosted on GitHub Pages.',
+      'url': 'https: //icaf-sliit.herokuapp.com/'},
+                                                                                    {'starts_at': {'day': 1, 'month': 1, 'year': 2021
+                                                                                        },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2021
+                                                                                        },
+      'title': 'A social media application for image sharing based on locations.',
+      'description': 'Personal Project\n\nCurrently in development: REST, Node.js, Express.js, MongoDB Atlas, React.js (MERN Stack), Google/Openlayers Maps',
+      'url': None
+                                                                                    },
+                                                                                    {'starts_at': {'day': 1, 'month': 1, 'year': 2021
+                                                                                        },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2021
+                                                                                        },
+      'title': 'Customer details management system',
+      'description': 'Personal Project.\n\nDeveloped with: REST, Java Spring Boot, Angular, TypeScript, Postman, Docker,\nMySQL, MDBootstrap\n\nFrontend: https: //github.com/rukshan99/-Customer-Details_management_System_Ui',
+      'url': 'https: //github.com/rukshan99/-Customer-Details-Management-System'},
+                                                                                        {'starts_at': {'day': 1, 'month': 1, 'year': 2021
+                                                                                            },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2021
+                                                                                            },
+      'title': 'Stock market application',
+      'description': 'Personal Project\n\nDeveloped with: Node.js, Express.js, Stock market API, Bootstrap, Handlebars,\nHeroku\n\nDeployed on: rukshan99.herokuapp.com\nRun on Docker: $ docker run -p 5000: 5000 rukshan99/stockapp',
+      'url': 'https: //github.com/rukshan99/Stock-market-application'},
+                                                                                            {'starts_at': {'day': 1, 'month': 1, 'year': 2020
+                                                                                                },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2020
+                                                                                                },
+      'title': 'A mobile app for hotel booking',
+      'description': '2nd year 2nd semester project. (Group)\n\nDeveloped with: Android Studio, Java, Firebase',
+      'url': 'https: //github.com/rukshan99/Team_iOS'},
+                                                                                                {'starts_at': {'day': 1, 'month': 1, 'year': 2020
+                                                                                                    },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2020
+                                                                                                    },
+      'title': 'Online fashion store and storage management system',
+      'description': '2nd year 2nd semester project (Group) for  Lakwin Global Suppliers (Pvt) Ltd.\n\nDeveloped with: Java Spring Boot, Spring MVC, Thymeleaf, MySQL, Hibernate,\nBootstrap, JasperReports, JUnit',
+      'url': 'https: //github.com/rukshan99/Online-fashion-store-and-storage-management-system'},
+                                                                                                    {'starts_at': {'day': 1, 'month': 1, 'year': 2020
+                                                                                                        },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2020
+                                                                                                        },
+      'title': 'Online video lending system',
+      'description': '2nd year 1st semester project. (Group)\n\nDeveloped with: Java MVC architecture, JSP, JavaScript, CSS, MySQL',
+      'url': None
+                                                                                                    },
+                                                                                                    {'starts_at': {'day': 1, 'month': 1, 'year': 2019
+                                                                                                        },
+      'ends_at': {'day': 31, 'month': 12, 'year': 2019
+                                                                                                        },
+      'title': 'Online tour management system',
+      'description': '1st year 2nd semester project. (Group)\n\nDeveloped with: PHP, JavaScript, HTML, CSS, MySQL',
+      'url': None
+                                                                                                    }
+                                                                                                ],
+    'accomplishment_test_scores': [],
+    'volunteer_work': [
+                                                                                                    {'starts_at': {'day': 1, 'month': 8, 'year': 2020
+                                                                                                        },
+      'ends_at': None,
+      'cause': 'Education',
+      'company': 'Stack Overflow',
+      'company_linkedin_profile_url': 'https: //lk.linkedin.com/company/stack-overflow',
+      'title': 'Contributor',
+      'description': 'Among the top 2% of the users in terms of reputation earning for the year 2021.\nReputation 1500+\nProfile: https: //stackoverflow.com/users/14143312',
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_100_100/0/1519880697944?e=2147483647&v=beta&t=bIfTYp4XtAtwHxjIwSrzugDWTkTSMbIh_Qvs_5RKvIg'},
+                                                                                                        {'starts_at': {'day': 1, 'month': 4, 'year': 2021
+                                                                                                            },
+      'ends_at': None,
+      'cause': 'Science and Technology',
+      'company': 'Microsoft',
+      'company_linkedin_profile_url': 'https: //lk.linkedin.com/company/microsoft',
+      'title': 'Microsoft Learn Student Ambassador',
+      'description': None,
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=2147483647&v=beta&t=rffql7GLHsSqWXKbdP2LJMMv7CMTqu7-Ms9d9tophKI'},
+                                                                                                            {'starts_at': {'day': 1, 'month': 1, 'year': 2021
+                                                                                                                },
+      'ends_at': None,
+      'cause': 'Science and Technology',
+      'company': 'IEEE',
+      'company_linkedin_profile_url': 'https: //lk.linkedin.com/company/ieee',
+      'title': 'Student Volunteer',
+      'description': None,
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_100_100/0/1519856132409?e=2147483647&v=beta&t=NqBr--TfZyEUhlGhmvQIack5P-Ece1Qs3OeArSbfKeU'},
+                                                                                                                {'starts_at': {'day': 1, 'month': 3, 'year': 2021
+                                                                                                                    },
+      'ends_at': {'day': 30, 'month': 4, 'year': 2021
+                                                                                                                    },
+      'cause': 'Social Services',
+      'company': 'International Model United Nations Association (IMUNA)',
+      'company_linkedin_profile_url': 'https: //lk.linkedin.com/company/imuna',
+      'title': 'Campus Ambassador',
+      'description': None,
+      'logo_url': 'https: //media-exp1.licdn.com/dms/image/C4E0BAQEHLZD-7ARPkQ/company-logo_100_100/0/1529352376027?e=2147483647&v=beta&t=Fb7oKPxNlh0dz8P00pyy1_hM9yRJHTUtnaD6Yz5X4EE'}],
+    'certifications': [
+                                                                                                                        {'starts_at': {'day': 1, 'month': 4, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //university.mongodb.com/course_completion/0cf5daca-5e9d-4ffc-9c39-e0c8685263a4?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing',
+      'name': 'M001: MongoDB Basics',
+      'license_number': None,
+      'display_source': 'university.mongodb.com',
+      'authority': 'MongoDB'
+                                                                                                                        },
+                                                                                                                        {'starts_at': {'day': 1, 'month': 3, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //1drv.ms/b/s!AkAbXiOMyMLxkVAAS8ECPb7Ufp2F?e=7Ml0Aw',
+      'name': 'Certified Microsoft Innovative Educator',
+      'license_number': None,
+      'display_source': '1drv.ms',
+      'authority': 'Microsoft'
+                                                                                                                        },
+                                                                                                                        {'starts_at': {'day': 1, 'month': 3, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //1drv.ms/b/s!AkAbXiOMyMLxkVFw_OMpyERCZknp?e=tFC5nC',
+      'name': 'Learning Cloud Computing: Core Concepts | NASBA: 3.00 CPE Credits',
+      'license_number': 'ATkidE7sg5nCsloeYYfRyzHkPkD_',
+      'display_source': '1drv.ms',
+      'authority': 'LinkedIn'
+                                                                                                                        },
+                                                                                                                        {'starts_at': {'day': 1, 'month': 3, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //1drv.ms/b/s!AkAbXiOMyMLxkVdlxMOjSSS7g9hZ?e=5dubOy',
+      'name': 'Learning Functional Programming with JavaScript ES6+',
+      'license_number': 'AeBFDR_RKebrOhm8oZNlTbEJVAKj',
+      'display_source': '1drv.ms',
+      'authority': 'LinkedIn'
+                                                                                                                        },
+                                                                                                                        {'starts_at': {'day': 1, 'month': 3, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //1drv.ms/b/s!AkAbXiOMyMLxkVI_IMeRN0aDaJIZ?e=7ZXSMs',
+      'name': 'Learning Jenkins',
+      'license_number': 'AdLCPhU1xIuaKzoFKiLct6lD1zA4',
+      'display_source': '1drv.ms',
+      'authority': 'LinkedIn'
+                                                                                                                        },
+                                                                                                                        {'starts_at': {'day': 1, 'month': 3, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //api.badgr.io/public/assertions/4cNdPKF5Rxep_ND1l9zQxw?identity__email=rukshanjayasekara%40outlook.com',
+      'name': 'Postman Student Expert',
+      'license_number': None,
+      'display_source': 'api.badgr.io',
+      'authority': 'Postman'
+                                                                                                                        },
+                                                                                                                        {'starts_at': {'day': 1, 'month': 2, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //1drv.ms/b/s!AkAbXiOMyMLxkVM-1Mr1qq9jkB2h?e=q6HYNc',
+      'name': 'DevOps Foundations: Lean and Agile | PMI: 1.25 PDUs',
+      'license_number': 'Ac4TWWALgBzTDpLI0yxN5PeLwEkE',
+      'display_source': '1drv.ms',
+      'authority': 'LinkedIn'
+                                                                                                                        },
+                                                                                                                        {'starts_at': {'day': 1, 'month': 2, 'year': 2021
+                                                                                                                            },
+      'ends_at': None,
+      'url': 'https: //1drv.ms/b/s!AkAbXiOMyMLxkVS3gSwyY8tm_K5P?e=3hS4Gd',
+      'name': 'Docker for Developers',
+      'license_number': 'AYI9fMIOYoK0KHxv8nTghfvRn-VN',
+      'display_source': '1drv.ms',
+      'authority': 'LinkedIn'
+                                                                                                                        }
+                                                                                                                    ],
+    'connections': 500,
+    'people_also_viewed': [
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/sachinijayasinghe',
+      'name': 'Sachini Jayasinghe',
+      'summary': 'Software Engineering Undergraduate | Trainee Software Engineer at Data Capture Experts',
+      'location': 'Colombo District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/senura-vihan-jayadeva-7860b41a6',
+      'name': 'Senura Vihan Jayadeva',
+      'summary': 'Microsoft Learn Student Ambassador | Software Engineering Undergraduate at SLIIT | Committee Member at MS Club of SLIIT | Physical Sciences UG - (USJ)',
+      'location': 'Colombo District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/sewvandi-promodya-wickramasinghe',
+      'name': 'Sewvandi Promodya Wickramasinghe',
+      'summary': 'Software Engineer at IFS | Microsoft Learn Student Ambassador | Postgraduate',
+      'location': 'Galle'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/lasal-hettiarachchi-b75643193',
+      'name': 'Lasal Hettiarachchi',
+      'summary': 'Physical Science UG (university of Colombo) | Software Engineering UG - (SLIIT) | Youth activist',
+      'location': 'Colombo District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/pasindu-kurukulasooriya-527b781b9',
+      'name': 'Pasindu Kurukulasooriya',
+      'summary': 'Undergraduate at University of Plymouth / Associate Engineer - Technology at Virtusa',
+      'location': 'Gampaha District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/vinuri-wijekoon-005a131a5',
+      'name': 'Vinuri Wijekoon',
+      'summary': 'Web Content Specialist at noon',
+      'location': 'Colombo District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/bimasha-chathurangi',
+      'name': 'Bimasha Chathurangi',
+      'summary': 'Student at SLIIT | Google IT Support Tech',
+      'location': 'Colombo'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/shadini-kalansooriya-a6b644180',
+      'name': 'Shadini Kalansooriya',
+      'summary': 'Associate Site Reliability Engineer at Pearson | Data Science Undergraduate | Microsoft Learn Student Ambassador',
+      'location': 'Colombo'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/nimesha-gunarathne',
+      'name': 'Nimesha Gunarathne',
+      'summary': 'Associate Software Engineer at Wiley Global Technology Pvt Ltd',
+      'location': 'Colombo District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/jdenipitiya96',
+      'name': 'Janani Denipitiya',
+      'summary': 'Undergraduate at SLIIT',
+      'location': 'Colombo District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/salukau',
+      'name': 'Saluka Udbhasa',
+      'summary': 'Sri Lankan Inventor | Undergraduate at SLIIT',
+      'location': 'Colombo'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/subachandran-sahana-1998s',
+      'name': 'Subachandran Sahana',
+      'summary': 'Undergraduate at SLIIT\nUndergraduate at university of Sri Jayawardenapura',
+      'location': 'Gampaha'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/prabodhasa',
+      'name': 'Prabodha Sathsarani Aththanayake',
+      'summary': '4th year Data Science Undergraduate at SLIIT.                                   Treasurer at FCSC',
+      'location': 'Sri Lanka'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/yasirurandika',
+      'name': 'Yasiru Randika',
+      'summary': 'Data Science Undergraduate | Data Engineering Intern at Wiley | MLSA |  Data Science, ML, AI Enthusiastic | MS Club of SLIIT',
+      'location': 'Sri Lanka'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/eranda-de-silva-591106193',
+      'name': 'Eranda De Silva',
+      'summary': 'Forensic Technology Assistant at EY',
+      'location': 'Sri Lanka'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/charindrawijemanne',
+      'name': 'Charindra Wijemanne',
+      'summary': 'Co-Founder / CTO at Maturify',
+      'location': 'Sri Lanka'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/hasitha-sanjaya-521bb5201',
+      'name': 'Hasitha Sanjaya',
+      'summary': 'Student at SLIIT',
+      'location': 'Colombo'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //lk.linkedin.com/in/dilan-wijevickrama-22506770',
+      'name': 'Dilan Wijevickrama',
+      'summary': 'Head of Engineering & Production at Microcells (PVT) Ltd',
+      'location': 'Colombo District'
+                                                                                                                        },
+                                                                                                                        {'link': 'https: //ph.linkedin.com/in/albert-almarez-jr-397078a0',
+      'name': 'Albert Almarez Jr',
+      'summary': 'Software Engineer at Infor',
+      'location': 'Makati'
+                                                                                                                        }
+                                                                                                                    ],
+    'recommendations': [],
+    'activities': [
+                                                                                                                        {'title': "SLIIT Dean's List",
+      'link': 'https: //www.linkedin.com/signup/cold-join',
+      'activity_status': 'Shared by Rukshan Jayasekara'
+                                                                                                                        }
+                                                                                                                    ],
+    'similarly_named_profiles': [
+                                                                                                                        {'name': 'Rukshan Jayasekara',
+      'link': 'https: //au.linkedin.com/in/rukshan-jayasekara-12747463',
+      'summary': 'Graduate Engineer at Nihar',
+      'location': 'Perth, WA'
+                                                                                                                        },
+                                                                                                                        {'name': 'Rukshan Jayasekara',
+      'link': 'https: //lk.linkedin.com/in/rukshan-jayasekara-571279177',
+      'summary': 'Astrologer at Astrologer',
+      'location': 'Sri Lanka'
+                                                                                                                        },
+                                                                                                                        {'name': 'RUKSHAN JAYASEKARA',
+      'link': 'https: //lk.linkedin.com/in/rukshan-jayasekara-353b8a36',
+      'summary': 'MARKATING at SLT',
+      'location': 'Sri Lanka'
+                                                                                                                        },
+                                                                                                                        {'name': 'rukshan jayasekara',
+      'link': 'https: //lk.linkedin.com/in/rukshan-jayasekara-90a75a51',
+      'summary': 'telecommunication at slt',
+      'location': 'Sri Lanka'
+                                                                                                                        }
+                                                                                                                    ],
+    'articles': [],
+    'groups': [
+                                                                                                                        {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C4D07AQFj9tjPdPYh_w/group-logo_image-shrink_92x92/0/1525123661014?e=1649847600&v=beta&t=FutFoAKWGliKqcajkt2eNTLvXcMYjUuX1Df7gn_ocqA',
+      'name': 'FOSSASIA',
+      'url': 'https: //www.linkedin.com/groups/3762811'},
+                                                                                                                            {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C5607AQEej0t0y4d8xw/group-logo_image-shrink_92x92/0/1631003830801?e=1649847600&v=beta&t=kIVxmWPSJiR7AovT6b46yloY37_fZr-QTq5xHxL8jH0',
+      'name': 'Microsoft Innovative Educator Trainers',
+      'url': 'https: //www.linkedin.com/groups/13849104'},
+                                                                                                                                {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C4E07AQHDAjC0ryaCuA/group-logo_image-shrink_92x92/0/1539813345752?e=1649847600&v=beta&t=4c2RQwXIYxMQ7QBYDPYlztN9MK9QZEuETpsjciSJ1Yc',
+      'name': 'Spring Users',
+      'url': 'https: //www.linkedin.com/groups/46964'},
+                                                                                                                                    {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C5607AQEO6LTE6Py4xg/group-logo_image-shrink_92x92/0/1634662491278?e=1649847600&v=beta&t=tAz6ZPsMKByfHNjQtYvs1ZcLkgwRQo3Lut0myyBmBqo',
+      'name': 'YLD.com Open Source - All things JS, React.js, Node.js, Typescript, Kubernetes, Cloud Native',
+      'url': 'https: //www.linkedin.com/groups/2906459'},
+                                                                                                                                        {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C5607AQEMr3u6wNeIUA/group-logo_image-shrink_92x92/0/1631008731811?e=1649847600&v=beta&t=uscawybmcS44abY-4oqQ4hONqcRZ0B7FdoNoH7fo3Zk',
+      'name': 'Microsoft Learn Student Ambassadors',
+      'url': 'https: //www.linkedin.com/groups/13893743'},
+                                                                                                                                            {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C4D07AQEJ-QaF6ge3Gw/group-logo_image-shrink_92x92/0/1631009482583?e=1649847600&v=beta&t=B7FnKwEuZqjvAph0FtDGRKtl-4gIZ3hoVIqO_RcdueM',
+      'name': 'Web Development Learning Group - LinkedIn Learning',
+      'url': 'https: //www.linkedin.com/groups/8978005'},
+                                                                                                                                                {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C4D07AQF8Ba8X2Lqzqg/group-logo_image-shrink_92x92/0/1539629423118?e=1649847600&v=beta&t=qqQgVPDw0HgNqffNLcNPz80n4Yqe7pw1MJSvjRT0mro',
+      'name': 'Docker Users',
+      'url': 'https: //www.linkedin.com/groups/6538078'},
+                                                                                                                                                    {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C4E07AQFwx5AZwdTyPg/group-logo_image-shrink_92x92/0/1563925567249?e=1649847600&v=beta&t=aOD0ghbqLHzIMRVFi5BxfnhNMRJR2CSaqMhxaMBd-30',
+      'name': 'Angular Developers - JavaScript Mastermind for Professional Development by AngularJobs.com',
+      'url': 'https: //www.linkedin.com/groups/4896676'},
+                                                                                                                                                        {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C5607AQGYeBgRmXjEOw/group-logo_image-shrink_92x92/0/1631004506770?e=1649847600&v=beta&t=V_9Rr3L8D_AIg1XTmAENPSKeyZLhpZwGXiLkQEijIu8',
+      'name': 'DevOps',
+      'url': 'https: //www.linkedin.com/groups/2825397'},
+                                                                                                                                                            {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C5607AQHcHcHz8yNulg/group-logo_image-shrink_92x92/0/1630999228869?e=1649847600&v=beta&t=aVsrqE6YD71fZCMPY7vPJzhdOj9AW2PJ5tCbwCRSrXI',
+      'name': 'Sri Lankan Professionals',
+      'url': 'https: //www.linkedin.com/groups/86958'},
+                                                                                                                                                                {'profile_pic_url': 'https: //media-exp1.licdn.com/dms/image/C4E07AQH1mV9x7ZxCkg/group-logo_image-shrink_92x92/0/1630996235871?e=1649847600&v=beta&t=ZREflB6AD1hrjVnE3A8WWNp7l9u-QOrv_C28a1ZC68o',
+      'name': 'Sri Lanka IT Network',
+      'url': 'https: //www.linkedin.com/groups/4006690'}]}
