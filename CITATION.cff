@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Jayasekara
+    given-names: Rukshan
+    orcid: https://orcid.org/0000-0002-6523-0259
+  - family-names: Kariyawasam
+    given-names: Sahan
+    orcid: https://orcid.org/0000-0002-6523-0259
+  - family-names: Jayasinghe
+    given-names: Sachini
+    orcid: https://orcid.org/0000-0003-0589-1511
+
+title: "DevFlair: A Framework to Automate the Pre-screening Process of Software Engineering Job Candidates"
+version: 1.0.0
+doi: 10.5281/zenodo.7032458
+date-released: 2022-08-29
