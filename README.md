@@ -1,5 +1,7 @@
 # DevFlair: A Framework to Automate the Pre-screening Process of Software Engineering Job Candidates
 
+[![DOI](https://zenodo.org/badge/530240489.svg)](https://zenodo.org/badge/latestdoi/530240489)
+
 * Supervisor: **Professor Samantha Thelijjagoda** (Dean, SLIIT Business School)
 * Co-supervisor: **Dilini Rajapaksha** (Postdoctoral Research Fellow at RMIT University)
 
