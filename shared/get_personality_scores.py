@@ -15,7 +15,7 @@ def get_personality_scores(profile_summary):
     pAGR = result[3] if(type(result[3]) == float) else result[3].item()
     pNEU = result[4] if(type(result[4]) == float) else result[4].item()
     
-    pCOMPOUND = (pOPN + pCON + pEXT + pAGR + (100.0-pNEU)) / 500
+    pCOMPOUND = (pOPN + pCON + pEXT + pAGR + (100.0-pNEU)) / 100
             
     personality_scores = { "pOPN": pOPN, "pCON": pCON, "pEXT": pEXT, "pAGR": pAGR, "pNEU": pNEU, "pCOMPOUND": pCOMPOUND }
     
